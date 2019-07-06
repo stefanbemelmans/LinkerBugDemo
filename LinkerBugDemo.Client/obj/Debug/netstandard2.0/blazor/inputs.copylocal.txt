@@ -1,0 +1,57 @@
+C:\Users\stack\.nuget\packages\common.logging.core\3.4.1\lib\netstandard1.0\Common.Logging.Core.dll
+C:\Users\stack\.nuget\packages\microsoft.aspnetcore.authorization\3.0.0-preview6.19307.2\lib\netstandard2.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\stack\.nuget\packages\microsoft.aspnetcore.blazor\3.0.0-preview6.19307.2\lib\netstandard2.0\Microsoft.AspNetCore.Blazor.dll
+C:\Users\stack\.nuget\packages\microsoft.aspnetcore.components\3.0.0-preview6.19307.2\lib\netstandard2.0\Microsoft.AspNetCore.Components.dll
+C:\Users\stack\.nuget\packages\microsoft.aspnetcore.components.browser\3.0.0-preview6.19307.2\lib\netstandard2.0\Microsoft.AspNetCore.Components.Browser.dll
+C:\Users\stack\.nuget\packages\microsoft.aspnetcore.metadata\3.0.0-preview6.19307.2\lib\netstandard2.0\Microsoft.AspNetCore.Metadata.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.csharp\4.3.0\lib\netstandard1.3\Microsoft.CSharp.dll
+C:\Users\stack\.nuget\packages\microsoft.extensions.dependencyinjection\3.0.0-preview6.19304.6\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\stack\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\3.0.0-preview6.19304.6\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\stack\.nuget\packages\microsoft.extensions.logging.abstractions\3.0.0-preview6.19304.6\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\stack\.nuget\packages\microsoft.extensions.options\3.0.0-preview6.19304.6\lib\netstandard2.0\Microsoft.Extensions.Options.dll
+C:\Users\stack\.nuget\packages\microsoft.extensions.primitives\3.0.0-preview6.19304.6\lib\netstandard2.0\Microsoft.Extensions.Primitives.dll
+C:\Users\stack\.nuget\packages\microsoft.jsinterop\3.0.0-preview6.19304.6\lib\netstandard2.0\Microsoft.JSInterop.dll
+C:\Users\stack\.nuget\packages\mono.webassembly.interop\3.0.0-preview6.19304.6\lib\netstandard2.0\Mono.WebAssembly.Interop.dll
+C:\Users\stack\.nuget\packages\nethereum.abi\3.3.0\lib\netstandard2.0\Nethereum.ABI.dll
+C:\Users\stack\.nuget\packages\nethereum.accounts\3.3.0\lib\netstandard2.0\Nethereum.Accounts.dll
+C:\Users\stack\.nuget\packages\nethereum.contracts\3.3.0\lib\netstandard2.0\Nethereum.Contracts.dll
+C:\Users\stack\.nuget\packages\nethereum.hex\3.3.0\lib\netstandard2.0\Nethereum.Hex.dll
+C:\Users\stack\.nuget\packages\nethereum.jsonrpc.client\3.3.0\lib\netstandard2.0\Nethereum.JsonRpc.Client.dll
+C:\Users\stack\.nuget\packages\nethereum.jsonrpc.rpcclient\3.3.0\lib\netstandard2.0\Nethereum.JsonRpc.RpcClient.dll
+C:\Users\stack\.nuget\packages\nethereum.keystore\3.3.0\lib\netstandard2.0\Nethereum.KeyStore.dll
+C:\Users\stack\.nuget\packages\nethereum.model\3.3.0\lib\netstandard2.0\Nethereum.Model.dll
+C:\Users\stack\.nuget\packages\nethereum.rlp\3.3.0\lib\netstandard2.0\Nethereum.RLP.dll
+C:\Users\stack\.nuget\packages\nethereum.rpc\3.3.0\lib\netstandard2.0\Nethereum.RPC.dll
+C:\Users\stack\.nuget\packages\nethereum.signer\3.3.0\lib\netstandard2.0\Nethereum.Signer.dll
+C:\Users\stack\.nuget\packages\nethereum.util\3.3.0\lib\netstandard2.0\Nethereum.Util.dll
+C:\Users\stack\.nuget\packages\nethereum.web3\3.3.0\lib\netstandard2.0\Nethereum.Web3.dll
+C:\Users\stack\.nuget\packages\newtonsoft.json\10.0.3\lib\netstandard1.3\Newtonsoft.Json.dll
+C:\Users\stack\.nuget\packages\portable.bouncycastle\1.8.2\lib\netstandard2.0\BouncyCastle.Crypto.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.buffers\4.5.0\lib\netstandard2.0\System.Buffers.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.collections.nongeneric\4.3.0\lib\netstandard1.3\System.Collections.NonGeneric.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.collections.specialized\4.3.0\lib\netstandard1.3\System.Collections.Specialized.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.componentmodel\4.3.0\lib\netstandard1.3\System.ComponentModel.dll
+C:\Users\stack\.nuget\packages\system.componentmodel.annotations\4.6.0-preview6.19303.8\lib\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.componentmodel.primitives\4.3.0\lib\netstandard1.0\System.ComponentModel.Primitives.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.componentmodel.typeconverter\4.3.0\lib\netstandard1.5\System.ComponentModel.TypeConverter.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.dynamic.runtime\4.3.0\lib\netstandard1.3\System.Dynamic.Runtime.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.io.filesystem.primitives\4.3.0\lib\netstandard1.3\System.IO.FileSystem.Primitives.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.linq\4.3.0\lib\netstandard1.6\System.Linq.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.linq.expressions\4.3.0\lib\netstandard1.6\System.Linq.Expressions.dll
+C:\Users\stack\.nuget\packages\system.memory\4.5.3\lib\netstandard2.0\System.Memory.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.numerics.vectors\4.5.0\lib\netstandard2.0\System.Numerics.Vectors.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.objectmodel\4.3.0\lib\netstandard1.3\System.ObjectModel.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.reflection.emit\4.3.0\lib\netstandard1.3\System.Reflection.Emit.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.reflection.emit.ilgeneration\4.3.0\lib\netstandard1.3\System.Reflection.Emit.ILGeneration.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.reflection.emit.lightweight\4.3.0\lib\netstandard1.3\System.Reflection.Emit.Lightweight.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.reflection.typeextensions\4.3.0\lib\netstandard1.5\System.Reflection.TypeExtensions.dll
+C:\Users\stack\.nuget\packages\system.runtime.compilerservices.unsafe\4.6.0-preview6.19303.8\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.runtime.serialization.formatters\4.3.0\lib\netstandard1.4\System.Runtime.Serialization.Formatters.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.runtime.serialization.primitives\4.3.0\lib\netstandard1.3\System.Runtime.Serialization.Primitives.dll
+C:\Users\stack\.nuget\packages\system.text.json\4.6.0-preview6.19303.8\lib\netstandard2.0\System.Text.Json.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.text.regularexpressions\4.3.0\lib\netstandard1.6\System.Text.RegularExpressions.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.threading\4.3.0\lib\netstandard1.3\System.Threading.dll
+C:\Users\stack\.nuget\packages\system.threading.tasks.extensions\4.5.2\lib\netstandard2.0\System.Threading.Tasks.Extensions.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.xml.readerwriter\4.3.0\lib\netstandard1.3\System.Xml.ReaderWriter.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.xml.xmldocument\4.3.0\lib\netstandard1.3\System.Xml.XmlDocument.dll
+C:\Users\stack\gitrepos\LinkerBugDemo\LinkerBugDemo.Shared\bin\Debug\netstandard2.0\LinkerBugDemo.Shared.dll
